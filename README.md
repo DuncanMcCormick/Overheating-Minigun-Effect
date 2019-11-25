@@ -7,4 +7,4 @@ Right off the bat I realized an error. I thought and accelerometer would work fo
 
 Im bad at explaining things with words so I will be using alot of pictures.
 
-[GitHub](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Untitled%20Sketch_schem.png)
+![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Untitled%20Sketch_schem.png)

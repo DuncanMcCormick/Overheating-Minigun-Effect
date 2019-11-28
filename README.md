@@ -10,3 +10,11 @@ Im bad at explaining things with words so I will be using alot of pictures.
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Untitled%20Sketch_schem.png)
 
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Minigun%20Assembled%20Section%20view%20list.jpg)
+1. Container
+2. Battery
+3. Drill
+4. Metal Rod
+5. Metal Rod to Plastic Pipes
+6. Platic Pipes
+7. End Cap
+8. Supports

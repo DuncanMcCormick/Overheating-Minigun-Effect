@@ -7,9 +7,10 @@ Right off the bat I realized an error. I thought and accelerometer would work fo
 
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Project%20explanation%2Bmeme.jpg)
 
-
+Electronic Scheme
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Untitled%20Sketch_schem.png)
 
+Final Product
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Minigun%20Assembled%20Section%20view%20list.jpg)
 1. Container
 2. Battery

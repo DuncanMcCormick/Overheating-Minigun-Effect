@@ -1,4 +1,5 @@
 # Overheating-Minigun-Effect
+## **Overview**
 Using your ardinuo you will have a light fade in when it detects spinning.
 
 This project is originally for a cosplay of mine but since all my tools arent in Regina I cant make the full minigun. With that in mind however I have made a draft of the final product so you can get an idea of what I am making.

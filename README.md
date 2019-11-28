@@ -5,6 +5,7 @@ This project is originally for a cosplay of mine but since all my tools arent in
 
 Right off the bat I realized an error. I thought and accelerometer would work for what I had planned but it turns out I need to use a Gyroscope so I'm gonna try and do the project without one. I will in the future try and get my hands on a gyroscope and do it properly but for now we get the jank accelerometer version.
 
+## **Duncan McCormick's brilliant picture explanation**
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Project%20explanation%2Bmeme.jpg)
 
 Electronic Scheme

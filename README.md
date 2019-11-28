@@ -13,10 +13,10 @@ Right off the bat I realized an error. I thought and accelerometer would work fo
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Untitled%20Sketch_schem.png)
 
 ## **Final Product**
-###**Assembled View**
+**Assembled View**
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Minigun%203d.PNG)
 
-###**Section View**
+**Section View**
 ![Alt Text](https://github.com/DuncanMcCormick/Overheating-Minigun-Effect/blob/master/Images/Minigun%20Assembled%20Section%20view%20list.jpg)
 1. Container
 2. Battery
